@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/activiti-demo/src/activiti-demo.iml" filepath="$PROJECT_DIR$/activiti-demo/src/activiti-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-spring/activiti-spring.iml" filepath="$PROJECT_DIR$/activiti-spring/activiti-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/data-structure/data-structure.iml" filepath="$PROJECT_DIR$/data-structure/data-structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jira-demo/jira-demo.iml" filepath="$PROJECT_DIR$/jira-demo/jira-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/src/main/main.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-activiti/src/main/main1.iml" filepath="$PROJECT_DIR$/springboot-activiti/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activiti-demo/src/main/main2.iml" filepath="$PROJECT_DIR$/activiti-demo/src/main/main2.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbitmq-demo/rabbitmq-demo.iml" filepath="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/src/test/test.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-activiti/src/test/test1.iml" filepath="$PROJECT_DIR$/springboot-activiti/src/test/test1.iml" />
     </modules>
   </component>
 </project>
